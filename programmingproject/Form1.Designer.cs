@@ -54,6 +54,7 @@
             this.pbFloor.Location = new System.Drawing.Point(-7, 417);
             this.pbFloor.Name = "pbFloor";
             this.pbFloor.Size = new System.Drawing.Size(809, 88);
+            this.pbFloor.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbFloor.TabIndex = 0;
             this.pbFloor.TabStop = false;
             // 
@@ -76,6 +77,7 @@
             this.pbPlayer.Location = new System.Drawing.Point(36, 317);
             this.pbPlayer.Name = "pbPlayer";
             this.pbPlayer.Size = new System.Drawing.Size(70, 100);
+            this.pbPlayer.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pbPlayer.TabIndex = 2;
             this.pbPlayer.TabStop = false;
             // 
