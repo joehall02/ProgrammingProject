@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clayf\\iCloudDrive\\Documents\\Documents – Joe’s MacBook Pro\\Uni\\Software Engineering\\Semester 1\\Programming\\Project\\programmingproject\\programmingproject\\programmingproject.csproj": {}
+    "C:\\Users\\clayf\\Source\\Repos\\ProgrammingProject\\programmingproject\\programmingproject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clayf\\iCloudDrive\\Documents\\Documents – Joe’s MacBook Pro\\Uni\\Software Engineering\\Semester 1\\Programming\\Project\\programmingproject\\programmingproject\\programmingproject.csproj": {
+    "C:\\Users\\clayf\\Source\\Repos\\ProgrammingProject\\programmingproject\\programmingproject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clayf\\iCloudDrive\\Documents\\Documents – Joe’s MacBook Pro\\Uni\\Software Engineering\\Semester 1\\Programming\\Project\\programmingproject\\programmingproject\\programmingproject.csproj",
+        "projectUniqueName": "C:\\Users\\clayf\\Source\\Repos\\ProgrammingProject\\programmingproject\\programmingproject.csproj",
         "projectName": "programmingproject",
-        "projectPath": "C:\\Users\\clayf\\iCloudDrive\\Documents\\Documents – Joe’s MacBook Pro\\Uni\\Software Engineering\\Semester 1\\Programming\\Project\\programmingproject\\programmingproject\\programmingproject.csproj",
+        "projectPath": "C:\\Users\\clayf\\Source\\Repos\\ProgrammingProject\\programmingproject\\programmingproject.csproj",
         "packagesPath": "C:\\Users\\clayf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clayf\\iCloudDrive\\Documents\\Documents – Joe’s MacBook Pro\\Uni\\Software Engineering\\Semester 1\\Programming\\Project\\programmingproject\\programmingproject\\obj\\",
+        "outputPath": "C:\\Users\\clayf\\Source\\Repos\\ProgrammingProject\\programmingproject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

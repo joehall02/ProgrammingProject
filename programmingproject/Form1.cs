@@ -7,6 +7,7 @@ namespace programmingproject
         int score;
         int cactusSpeed;
         int cloudSpeed;
+
         int jumpSpeed;
         int gravity;
         int highscore = Int32.Parse(File.ReadAllText("highscore.txt"));
