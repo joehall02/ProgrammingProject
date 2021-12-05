@@ -73,6 +73,26 @@ namespace programmingproject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap background_dark {
+            get {
+                object obj = ResourceManager.GetObject("background_dark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap background_light {
+            get {
+                object obj = ResourceManager.GetObject("background_light", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap cactus_large {
             get {
                 object obj = ResourceManager.GetObject("cactus_large", resourceCulture);
@@ -126,6 +146,26 @@ namespace programmingproject.Properties {
         internal static System.Drawing.Bitmap settings_icon1 {
             get {
                 object obj = ResourceManager.GetObject("settings_icon1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap settings_icon2 {
+            get {
+                object obj = ResourceManager.GetObject("settings_icon2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap theme_light {
+            get {
+                object obj = ResourceManager.GetObject("theme_light", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
